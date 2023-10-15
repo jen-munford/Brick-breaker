@@ -1,4 +1,4 @@
-Brick Breaker Game
+# Brick Breaker Game
 
 This repository contains a simple bouncing ball game implemented in the Processing programming environment. The code controls the movement of a ball within a canvas and includes a paddle at the bottom controlled by the mouse.
 
